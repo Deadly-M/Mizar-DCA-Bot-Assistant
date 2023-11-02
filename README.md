@@ -7,4 +7,4 @@ Gives you a bit of extra time to hold open trades that look like their going to 
  
 This also helps a bit to fight the mizar fees.
  
-Planing to add trailing option with a TA exit such as RSIcrosunder or EMAconvergance.
+Planing to add trailing option with a TA exit such as RSIcrossunder or EMAconvergance.
