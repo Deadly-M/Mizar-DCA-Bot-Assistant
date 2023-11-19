@@ -14,3 +14,5 @@ This also helps a bit to fight the mizar fees.
 Planing to add trailing option with a TA exit such as RSIcrossunder or EMAconvergance
 .
 Also want to allow additional positions to open when existing ones are safe with a green stoploss (I can't figure out how to achieve this, HELP!)
+
+Probably wont develop this much more as the fees on the platform seem to have already exceeded a what a 3commas subscription would cost!!!!
